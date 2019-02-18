@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <empLoc>mumbai</empLoc>
+    <empName>sachin</empName>
+    <empid>123</empid>
+</employee>
