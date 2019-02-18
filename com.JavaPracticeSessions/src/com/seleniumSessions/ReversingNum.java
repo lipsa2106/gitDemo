@@ -20,7 +20,7 @@ public class ReversingNum {
 		System.out.println("reversed string:"+sb);
 		String str=sb.toString();
 		int i=Integer.parseInt(str);
-		System.out.println("*********************8888");
+		System.out.println("*********************");
 		System.out.println("Reversed number:"+i);
 	}
 
